@@ -1,3 +1,4 @@
+Note :- Do Upload your source code manully after hosting it will be in build folder inside your app
 # Deploying a React App* to GitHub Pages
 
 \* created using `create-react-app`
