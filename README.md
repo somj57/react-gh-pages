@@ -151,8 +151,8 @@ The remainder of this document contains a tutorial on creating a React app (usin
 * And now, time to turn the default `create-react-app` app into something unique!
 <hr>
 Quick Notes ::
-1)If error shows up like fatal:Origin already exists the just delete the .git folder and in terminal type ```$ git remote rm origin ``` and now repeat the process from ```$ git init```
-2)At the end go to branch and then make ```master``` branch default an for hosting ```gh-graph``` branch will be used😂ref::🔗https://www.youtube.com/watch?v=iyFjdmzcpws
+1)If error shows up like fatal:Origin already exists the just delete the .git folder and in terminal type `$ git remote rm origin ` and now repeat the process from `$ git init`
+2)At the end go to branch and then make `master` branch default an for hosting `gh-graph` branch will be used😂ref::🔗https://www.youtube.com/watch?v=iyFjdmzcpws
 
 
 
