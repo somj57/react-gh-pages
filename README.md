@@ -149,10 +149,10 @@ The remainder of this document contains a tutorial on creating a React app (usin
 * I created this React app using [`create-react-app`](https://github.com/facebookincubator/create-react-app). By default, apps created using `create-react-app` have a README.md file that looks like [this](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md). Indeed, the README.md file you're now reading originally looked like that. I have since changed it to look the way it looks today.
 * Special thanks to GitHub, Inc., for providing us with the GitHub Pages hosting functionality at no extra charge.
 * And now, time to turn the default `create-react-app` app into something unique!
-
-
-
-
+<hr>
+Quick Notes ::
+1)If error shows up like fatal:Origin already exists the just delete the .git folder and in terminal type ```$ git remote rm origin ``` and now repeat the process from ```$ git init```
+2)At the end go to branch and then make ```master``` branch default an for hosting ```gh-graph``` branch will be used😂ref::🔗https://www.youtube.com/watch?v=iyFjdmzcpws
 
 
 
