@@ -1,5 +1,5 @@
 ### To run this file simply fork it and save it 
-    1)```
+    1)```sh
         npm install
         npm start 
       ```
