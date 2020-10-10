@@ -1,8 +1,8 @@
 ### To run this file simply fork it and save it 
-    1)```sh
+    1)`
         npm install
         npm start 
-      ```
+      `
 
 
 Note :- Do Upload your source code manully after hosting it will be in build folder inside your app
