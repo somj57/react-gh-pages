@@ -1,5 +1,5 @@
 ### To run this file simply fork it and save it 
-    1)
+    
         npm install
         npm start 
       
